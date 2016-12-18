@@ -1,2 +1,2 @@
 # Discord
-For discord.
+Bot test.
